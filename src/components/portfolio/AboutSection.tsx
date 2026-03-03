@@ -129,7 +129,7 @@ const AboutSection = () => {
                   loop={true}
                   className="w-full h-auto"
                 /> */}
-                <img src="../../../public/23t.png" alt="" />
+                <img src="../../../public/23t.png" alt="My Picture" />
               </div>
             </div>
           </Reveal>
