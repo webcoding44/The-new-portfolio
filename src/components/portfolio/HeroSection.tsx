@@ -54,7 +54,7 @@ const HeroSection = ({ onSectionClick }: HeroSectionProps) => {
 
             <Reveal delay={0.05}>
               <h1 className="text-hero font-black text-foreground mb-4">
-                Yash Palav
+                Safiurahman
               </h1>
             </Reveal>
 

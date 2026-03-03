@@ -120,7 +120,7 @@ const Footer = () => {
           <div className="flex items-center gap-8">
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-              <span>Mumbai, India</span>
+              <span>Safiurahman, Afghanistan</span>
               <span className="text-border">|</span>
               <span className="font-mono">{time} IST</span>
             </div>
@@ -128,7 +128,7 @@ const Footer = () => {
 
           <div className="flex items-center gap-6">
             <p className="flex items-center gap-1.5">
-              Made with <Heart className="w-4 h-4 text-red-500 fill-red-500 animate-pulse" /> by Yash Palav
+              Made with <Heart className="w-4 h-4 text-red-500 fill-red-500 animate-pulse" /> by Safiurahman
             </p>
 
             <button

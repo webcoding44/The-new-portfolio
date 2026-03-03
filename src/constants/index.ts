@@ -3,22 +3,22 @@ import { Github, Linkedin, Instagram, Twitter } from "lucide-react";
 export const SOCIAL_LINKS = [
   { 
     icon: Github, 
-    href: "https://github.com/YashPalav-26", 
+    href: "https://github.com/webcoding44/", 
     label: "GitHub" 
   },
   { 
     icon: Linkedin, 
-    href: "https://linkedin.com/in/yashpalav/", 
+    href: "https://www.linkedin.com/in/safiurahman-jami-/", 
     label: "LinkedIn" 
   },
   { 
     icon: Instagram, 
-    href: "https://www.instagram.com/_highkeyyash_/", 
+    href: "", 
     label: "Instagram" 
   },
   { 
     icon: Twitter, 
-    href: "https://x.com/yashpalav26", 
+    href: "", 
     label: "Twitter" 
   },
 ] as const;
@@ -33,6 +33,6 @@ export const NAV_ITEMS = [
 
 export const SECTIONS = ["hero", "about", "skills", "experience", "projects", "contact"] as const;
 
-export const EMAIL = "yashpalav48@gmail.com";
+export const EMAIL = "webcoding44@gmail.com";
 
 export const MOBILE_BREAKPOINT = 768;

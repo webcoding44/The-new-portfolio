@@ -124,11 +124,12 @@ const AboutSection = () => {
             <div className="h-full neobrutalist-card p-0 overflow-hidden relative group bg-background/50 border border-border flex flex-col items-center justify-center min-h-[300px]">
               <div className="absolute inset-0 bg-gradient-to-b from-primary/5 to-transparent opacity-50" />
               <div className="w-full h-full p-6 flex items-center justify-center relative z-10 scale-110 group-hover:scale-125 transition-transform duration-700">
-                <Lottie
+                {/* <Lottie
                   animationData={animationData}
                   loop={true}
                   className="w-full h-auto"
-                />
+                /> */}
+                <img src="../../../public/23t.png" alt="" />
               </div>
             </div>
           </Reveal>
@@ -142,7 +143,7 @@ const AboutSection = () => {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
                 <div className="space-y-2 relative pl-4 border-l-2 border-secondary/20">
                   <span className="absolute -left-[5px] top-1.5 w-2 h-2 rounded-full bg-secondary" />
-                  <p className="text-foreground font-semibold">Diploma in IT</p>
+                  <p className="text-foreground font-semibold">Ghalib University</p>
                   <p className="text-sm text-foreground/60">
                     Govt. Polytechnic Mumbai
                   </p>
